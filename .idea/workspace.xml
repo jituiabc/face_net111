@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5f013ea-ebcd-4c0e-b057-b74bca8d4b10" name="更改" comment="测试1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="977bd50f-56db-450b-b037-99fb92520684" value="Blue" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQL File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jituiabc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:jituiabc/face_net111.git",
+    "accountId": "ad404e8b-9ffa-486b-90a1-7e75c7c230e4"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/face_detected/retinaface.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2b5632SD07MoaIeRmysJJ3AGQhM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in test_camara.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python 测试 (test_cap_ifOpen.py 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aaa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.anchors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bendi_run.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cap_open.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clear_all_facedb_save.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.damo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.delete1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detect_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detected.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encoding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.face_encodding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.face_encoding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.face_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.facenet (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.facenet(fuwuqi).executor&quot;: &quot;Run&quot;,
+    &quot;Python.facenet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inception_resnetv1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.inception_resnetv1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inside.executor&quot;: &quot;Run&quot;,
+    &quot;Python.local.executor&quot;: &quot;Run&quot;,
+    &quot;Python.local_video.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mainWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mk_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mobilenet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.retinaface (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.retinaface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_main_web.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_server (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.summary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_cap_ifOpen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.txt_annotation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write2excel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_to_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.线程.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/guosiqi/vippython/face_net/face_db/pic_dir&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/face_db/pic_dir" />
+      <recent name="$PROJECT_DIR$/face_db/log" />
+      <recent name="$PROJECT_DIR$/facenet-pytorch/model_data" />
+      <recent name="$PROJECT_DIR$/face_db/train_datasets" />
+      <recent name="$PROJECT_DIR$/face_db/test_datasets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/face_db/train_datasets" />
+      <recent name="$PROJECT_DIR$/face_db/test_datasets" />
+      <recent name="$PROJECT_DIR$/face_db/fight2" />
+      <recent name="$PROJECT_DIR$/model_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bendi_run">
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_net" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bendi_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_net" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bendi_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="face_net" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/home/ljw/pythonfile/face_net" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_net" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_net" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/quary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_net" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.face_main" />
+      <item itemvalue="Python.retinaface" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.quary" />
+      <item itemvalue="Python.bendi_run" />
+      <item itemvalue="Python.run_server" />
+      <item itemvalue="Python.aaa" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bendi_run" />
+        <item itemvalue="Python.run_server" />
+        <item itemvalue="Python.quary" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.aaa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b5f013ea-ebcd-4c0e-b057-b74bca8d4b10" name="更改" comment="" />
+      <created>1705492389276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705492389276</updated>
+      <workItem from="1705492392090" duration="2728000" />
+      <workItem from="1705558095300" duration="9609000" />
+      <workItem from="1705572915424" duration="7957000" />
+      <workItem from="1705630964041" duration="1507000" />
+      <workItem from="1705633083009" duration="2276000" />
+      <workItem from="1705649676844" duration="1460000" />
+      <workItem from="1705917688616" duration="1814000" />
+      <workItem from="1705974886112" duration="2051000" />
+      <workItem from="1705977832609" duration="2021000" />
+      <workItem from="1706169172475" duration="538000" />
+      <workItem from="1706169715885" duration="1401000" />
+      <workItem from="1706171615126" duration="5850000" />
+      <workItem from="1706193414808" duration="245000" />
+      <workItem from="1707124007280" duration="2832000" />
+      <workItem from="1708942562282" duration="826000" />
+      <workItem from="1709017347700" duration="429000" />
+      <workItem from="1709213717903" duration="841000" />
+      <workItem from="1709345320234" duration="8018000" />
+      <workItem from="1709365610488" duration="4342000" />
+      <workItem from="1709395389973" duration="667000" />
+      <workItem from="1709430747974" duration="2466000" />
+      <workItem from="1709451549497" duration="2082000" />
+      <workItem from="1709455703979" duration="158000" />
+      <workItem from="1709728636580" duration="1037000" />
+      <workItem from="1709817226591" duration="22000" />
+      <workItem from="1709869993640" duration="650000" />
+      <workItem from="1709914658856" duration="609000" />
+      <workItem from="1709958040590" duration="5640000" />
+      <workItem from="1709987853252" duration="756000" />
+      <workItem from="1710033220255" duration="6913000" />
+      <workItem from="1710048958669" duration="1903000" />
+      <workItem from="1710117616574" duration="6249000" />
+      <workItem from="1710246573510" duration="2232000" />
+      <workItem from="1710748247218" duration="4407000" />
+      <workItem from="1710825991548" duration="1135000" />
+      <workItem from="1710835347521" duration="2506000" />
+      <workItem from="1710852042372" duration="724000" />
+      <workItem from="1711028374201" duration="313000" />
+      <workItem from="1711091592337" duration="1907000" />
+      <workItem from="1711186072315" duration="32000" />
+      <workItem from="1711186340684" duration="65000" />
+      <workItem from="1711191584706" duration="16000" />
+      <workItem from="1711194706177" duration="1202000" />
+      <workItem from="1711762425224" duration="227000" />
+      <workItem from="1711883562229" duration="359000" />
+      <workItem from="1711889161487" duration="173000" />
+      <workItem from="1712039316433" duration="362000" />
+      <workItem from="1712836243007" duration="16000" />
+      <workItem from="1713141064758" duration="191000" />
+      <workItem from="1713335569354" duration="28000" />
+      <workItem from="1713335734232" duration="535000" />
+      <workItem from="1713842519213" duration="642000" />
+      <workItem from="1713860625617" duration="499000" />
+      <workItem from="1713871035855" duration="2074000" />
+      <workItem from="1713925818063" duration="6000" />
+      <workItem from="1713926172466" duration="175000" />
+      <workItem from="1714020682993" duration="3361000" />
+      <workItem from="1714024577473" duration="599000" />
+      <workItem from="1714110556207" duration="2000" />
+      <workItem from="1714121199792" duration="1060000" />
+      <workItem from="1714122995070" duration="612000" />
+      <workItem from="1714302699017" duration="411000" />
+      <workItem from="1714358370542" duration="880000" />
+      <workItem from="1714701508568" duration="1185000" />
+      <workItem from="1714706749063" duration="4000" />
+      <workItem from="1715130332501" duration="185000" />
+      <workItem from="1715167304480" duration="3035000" />
+      <workItem from="1715491661539" duration="127000" />
+      <workItem from="1715491850436" duration="1125000" />
+      <workItem from="1715498515346" duration="4059000" />
+      <workItem from="1715517310497" duration="338000" />
+      <workItem from="1715661226211" duration="1742000" />
+      <workItem from="1715664106662" duration="2183000" />
+      <workItem from="1716004895218" duration="912000" />
+      <workItem from="1716009117545" duration="728000" />
+      <workItem from="1716012491059" duration="1022000" />
+      <workItem from="1716394404672" duration="2240000" />
+      <workItem from="1716397974760" duration="874000" />
+      <workItem from="1716731752183" duration="347000" />
+      <workItem from="1716811885156" duration="389000" />
+      <workItem from="1716883967290" duration="11335000" />
+      <workItem from="1716975820363" duration="17409000" />
+      <workItem from="1717050104454" duration="8651000" />
+      <workItem from="1717069421485" duration="1205000" />
+      <workItem from="1717071664208" duration="2217000" />
+      <workItem from="1717220885040" duration="2451000" />
+      <workItem from="1717224175006" duration="9746000" />
+      <workItem from="1717297468207" duration="2853000" />
+      <workItem from="1717302149371" duration="1048000" />
+      <workItem from="1717406228255" duration="17000" />
+      <workItem from="1717486664186" duration="65000" />
+      <workItem from="1717751542508" duration="890000" />
+      <workItem from="1718011798804" duration="12000" />
+      <workItem from="1718090727637" duration="129000" />
+      <workItem from="1718091475214" duration="893000" />
+      <workItem from="1720095608962" duration="659000" />
+      <workItem from="1720143905301" duration="263000" />
+      <workItem from="1720147364246" duration="827000" />
+      <workItem from="1721554217157" duration="687000" />
+      <workItem from="1721561973210" duration="16000" />
+      <workItem from="1721612773680" duration="3270000" />
+      <workItem from="1721618933183" duration="2191000" />
+      <workItem from="1721649401819" duration="2261000" />
+      <workItem from="1721652847171" duration="562000" />
+      <workItem from="1721654111035" duration="1989000" />
+      <workItem from="1721784460638" duration="7995000" />
+      <workItem from="1721802944290" duration="2571000" />
+      <workItem from="1721810495613" duration="952000" />
+      <workItem from="1721879795184" duration="2317000" />
+      <workItem from="1722045262113" duration="4449000" />
+      <workItem from="1722135301201" duration="2218000" />
+      <workItem from="1722137892023" duration="278000" />
+      <workItem from="1722147330677" duration="4696000" />
+      <workItem from="1722152086610" duration="4051000" />
+      <workItem from="1722164957745" duration="2000" />
+      <workItem from="1722309670119" duration="2151000" />
+      <workItem from="1722313007026" duration="702000" />
+      <workItem from="1722318193400" duration="186000" />
+      <workItem from="1722330182015" duration="1701000" />
+      <workItem from="1722341418008" duration="4054000" />
+      <workItem from="1722396128770" duration="1814000" />
+      <workItem from="1722413128920" duration="3087000" />
+      <workItem from="1722416238980" duration="438000" />
+      <workItem from="1722416686426" duration="7080000" />
+      <workItem from="1722480420300" duration="1835000" />
+      <workItem from="1722482261157" duration="254000" />
+      <workItem from="1722483759728" duration="568000" />
+      <workItem from="1722488252297" duration="32950000" />
+      <workItem from="1722652123772" duration="488000" />
+      <workItem from="1722652616905" duration="11000" />
+      <workItem from="1722652786229" duration="331000" />
+      <workItem from="1722654509266" duration="758000" />
+      <workItem from="1722656132245" duration="7000" />
+      <workItem from="1722665177712" duration="9510000" />
+      <workItem from="1723427542533" duration="2958000" />
+      <workItem from="1723430509373" duration="12000" />
+      <workItem from="1723430696354" duration="3472000" />
+      <workItem from="1723443298383" duration="1711000" />
+      <workItem from="1723518462046" duration="5121000" />
+      <workItem from="1723543632815" duration="100000" />
+      <workItem from="1723543812116" duration="60000" />
+      <workItem from="1723544426704" duration="3193000" />
+      <workItem from="1723624340423" duration="151000" />
+      <workItem from="1723624525608" duration="939000" />
+      <workItem from="1723636733907" duration="97000" />
+      <workItem from="1723638038854" duration="1480000" />
+      <workItem from="1723640336287" duration="185000" />
+      <workItem from="1723640530521" duration="108000" />
+      <workItem from="1723640646837" duration="166000" />
+      <workItem from="1723697018995" duration="34000" />
+      <workItem from="1723697069231" duration="2288000" />
+      <workItem from="1723701919864" duration="1080000" />
+      <workItem from="1723703052349" duration="1179000" />
+      <workItem from="1723720260630" duration="156000" />
+      <workItem from="1723720436502" duration="198000" />
+      <workItem from="1723720653125" duration="1510000" />
+      <workItem from="1723722194121" duration="2472000" />
+      <workItem from="1723725891011" duration="15000" />
+      <workItem from="1723728589785" duration="156000" />
+      <workItem from="1723774133872" duration="2351000" />
+      <workItem from="1723777962572" duration="80000" />
+      <workItem from="1723778049668" duration="11716000" />
+      <workItem from="1723866328816" duration="344000" />
+      <workItem from="1723867055352" duration="8464000" />
+      <workItem from="1723882311738" duration="11323000" />
+      <workItem from="1723963020482" duration="1150000" />
+      <workItem from="1723964194820" duration="148000" />
+      <workItem from="1723964363358" duration="213000" />
+      <workItem from="1723964600242" duration="1376000" />
+      <workItem from="1723967262572" duration="11543000" />
+      <workItem from="1724034127181" duration="409000" />
+      <workItem from="1724034554130" duration="234000" />
+      <workItem from="1724034809140" duration="5120000" />
+      <workItem from="1724053575643" duration="1392000" />
+      <workItem from="1724121438632" duration="3548000" />
+      <workItem from="1724125297250" duration="1013000" />
+      <workItem from="1724126322370" duration="25000" />
+      <workItem from="1724126370849" duration="5465000" />
+      <workItem from="1724142867980" duration="7611000" />
+      <workItem from="1724153648904" duration="2830000" />
+      <workItem from="1724156506946" duration="2774000" />
+      <workItem from="1724160700606" duration="506000" />
+      <workItem from="1724232474712" duration="590000" />
+      <workItem from="1724240038230" duration="1874000" />
+      <workItem from="1724244847911" duration="65000" />
+      <workItem from="1724294824499" duration="515000" />
+      <workItem from="1724298764059" duration="927000" />
+      <workItem from="1724305132643" duration="1436000" />
+      <workItem from="1724306619756" duration="61000" />
+      <workItem from="1724306710716" duration="1686000" />
+      <workItem from="1724311068790" duration="1066000" />
+      <workItem from="1724323870121" duration="640000" />
+      <workItem from="1724324516759" duration="321000" />
+      <workItem from="1724324841693" duration="2738000" />
+      <workItem from="1724388481055" duration="2917000" />
+      <workItem from="1724400397071" duration="597000" />
+      <workItem from="1724403142780" duration="821000" />
+      <workItem from="1724413800821" duration="1836000" />
+      <workItem from="1724416519814" duration="3182000" />
+      <workItem from="1724470011704" duration="2541000" />
+      <workItem from="1724475337079" duration="2416000" />
+      <workItem from="1724479056492" duration="2263000" />
+      <workItem from="1724494235800" duration="543000" />
+      <workItem from="1724494796310" duration="1000" />
+      <workItem from="1724494814776" duration="17000" />
+      <workItem from="1724495607227" duration="730000" />
+      <workItem from="1724500815915" duration="1232000" />
+      <workItem from="1724502478882" duration="26000" />
+      <workItem from="1725162084589" duration="170000" />
+      <workItem from="1725278936384" duration="772000" />
+      <workItem from="1727308901249" duration="9845000" />
+      <workItem from="1727529195671" duration="6820000" />
+    </task>
+    <task id="LOCAL-00001" summary="更改">
+      <option name="closed" value="true" />
+      <created>1727317108879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727317108880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试">
+      <option name="closed" value="true" />
+      <created>1727317146630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727317146630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试1">
+      <option name="closed" value="true" />
+      <created>1727337308248</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727337308248</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试1">
+      <option name="closed" value="true" />
+      <created>1727337416521</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727337416521</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试1">
+      <option name="closed" value="true" />
+      <created>1727337627366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727337627366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="更改" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="测试1" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/face_net$video_new.coverage" NAME="video_new Coverage Results" MODIFIED="1723953423975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$detected.coverage" NAME="detected 覆盖结果" MODIFIED="1709367026443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_detected" />
+    <SUITE FILE_PATH="coverage/face_net$summary.coverage" NAME="summary Coverage Results" MODIFIED="1723881770582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-pytorch" />
+    <SUITE FILE_PATH="coverage/face_net$inception_resnetv1__1_.coverage" NAME="inception_resnetv1 (1) 覆盖结果" MODIFIED="1705563203292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/face_net$client.coverage" NAME="client Coverage Results" MODIFIED="1724160836311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$run_server__1_.coverage" NAME="run_server (1) 覆盖结果" MODIFIED="1723546983380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$query.coverage" NAME="query 覆盖结果" MODIFIED="1722343286860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/face_net$mk_csv.coverage" NAME="mk_csv 覆盖结果" MODIFIED="1721803697249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$inside.coverage" NAME="inside 覆盖结果" MODIFIED="1723440327315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face-recognition-for-classroom-sign-in-master" />
+    <SUITE FILE_PATH="coverage/face_net$delete1.coverage" NAME="delete1 覆盖结果" MODIFIED="1717246294825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$detect_new.coverage" NAME="detect_new 覆盖结果" MODIFIED="1722604376183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1724160829203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$Server.coverage" NAME="Server 覆盖结果" MODIFIED="1717052306080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$encoding.coverage" NAME="encoding 覆盖结果" MODIFIED="1705560771119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_detected" />
+    <SUITE FILE_PATH="coverage/face_net$facenet.coverage" NAME="facenet 覆盖结果" MODIFIED="1709367065143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/face_net$facenet__1_.coverage" NAME="facenet (1) 覆盖结果" MODIFIED="1705979061853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/face_net$detect.coverage" NAME="detect 覆盖结果" MODIFIED="1722670040593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$utils.coverage" NAME="utils 覆盖结果" MODIFIED="1723520559162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/face_net$write2excel.coverage" NAME="write2excel 覆盖结果" MODIFIED="1722341672086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$inception_resnetv1.coverage" NAME="inception_resnetv1 覆盖结果" MODIFIED="1709367072381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/face_net$face_encodding.coverage" NAME="face_encodding 覆盖结果" MODIFIED="1717071789701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_detected" />
+    <SUITE FILE_PATH="coverage/face_net$txt_annotation.coverage" NAME="txt_annotation Coverage Results" MODIFIED="1723881961003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-pytorch" />
+    <SUITE FILE_PATH="coverage/face_net$.coverage" NAME=" Coverage Results" MODIFIED="1724393166635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$test.coverage" NAME="test Coverage Results" MODIFIED="1724393225229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$train.coverage" NAME="train Coverage Results" MODIFIED="1723878161931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-pytorch" />
+    <SUITE FILE_PATH="coverage/face_net$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1724393504416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$mobilenet.coverage" NAME="mobilenet 覆盖结果" MODIFIED="1709367080303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/face_net$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1722596542983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/face_net$anchors.coverage" NAME="anchors 覆盖结果" MODIFIED="1709366935510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/face_net$write_to_csv.coverage" NAME="write_to_csv 覆盖结果" MODIFIED="1722608104908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/face_net$clear_all_facedb_save.coverage" NAME="clear_all_facedb_save 覆盖结果" MODIFIED="1705566623851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/face_net$predict.coverage" NAME="predict Coverage Results" MODIFIED="1723798299963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/facenet-pytorch" />
+    <SUITE FILE_PATH="coverage/face_net$quary.coverage" NAME="quary Coverage Results" MODIFIED="1727311971958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/face_net$mainWindow.coverage" NAME="mainWindow 覆盖结果" MODIFIED="1710040014406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/face_net$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1722424540902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1724305149793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTorch_BlazeFace" />
+    <SUITE FILE_PATH="coverage/face_net$run_server.coverage" NAME="run_server Coverage Results" MODIFIED="1727531007986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$bendi_run.coverage" NAME="bendi_run Coverage Results" MODIFIED="1727531011117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$video.coverage" NAME="video Coverage Results" MODIFIED="1723787733035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$server.coverage" NAME="server Coverage Results" MODIFIED="1724153690300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WBsocket" />
+    <SUITE FILE_PATH="coverage/face_net$face_encoding.coverage" NAME="face_encoding 覆盖结果" MODIFIED="1723545947799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$local_video.coverage" NAME="local_video Coverage Results" MODIFIED="1723961249105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$test_cap_ifOpen.coverage" NAME="test_cap_ifOpen 覆盖结果" MODIFIED="1722048882205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$cap_open.coverage" NAME="cap_open 覆盖结果" MODIFIED="1717245584425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$retinaface.coverage" NAME="retinaface Coverage Results" MODIFIED="1723786944717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_detected" />
+    <SUITE FILE_PATH="coverage/face_net$retinaface__1_.coverage" NAME="retinaface (1) 覆盖结果" MODIFIED="1722313696054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_retinaface" />
+    <SUITE FILE_PATH="coverage/face_net$utils__1_.coverage" NAME="utils (1) 覆盖结果" MODIFIED="1722415178138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/face_net$run_main_web.coverage" NAME="run_main_web 覆盖结果" MODIFIED="1721653023689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1724330689197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$local.coverage" NAME="local Coverage Results" MODIFIED="1724153697789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WBsocket" />
+    <SUITE FILE_PATH="coverage/face_net$main.coverage" NAME="main Coverage Results" MODIFIED="1724495671497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_net$damo1.coverage" NAME="damo1 Coverage Results" MODIFIED="1723964923959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WBsocket" />
+  </component>
+</project>

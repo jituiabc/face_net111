@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-242.21829.153">
+    <data-source name="MyMql@face_db" uuid="977bd50f-56db-450b-b037-99fb92520684">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>student</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

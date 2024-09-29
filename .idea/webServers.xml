@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="21c4dba0-f2c8-4778-98de-fdc9e9b36e78" name="智安校园">
+        <fileTransfer rootFolder="/home/ljw/pythonfile/zhian_school/face" accessType="SFTP" host="172.16.2.143" port="22" sshConfigId="cd7f1b5c-9ca7-48f7-8319-8028c1bf2b8b" sshConfig="ljw@172.16.2.143:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
